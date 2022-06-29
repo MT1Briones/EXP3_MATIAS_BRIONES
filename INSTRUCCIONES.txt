@@ -1,0 +1,8 @@
+ADMINISTRADOR
+USUARIO: mt1
+CONTRASEÑA: mati2002
+
+
+
+LINK DE LA API
+http://127.0.0.1:8000/api/lista_clientes
